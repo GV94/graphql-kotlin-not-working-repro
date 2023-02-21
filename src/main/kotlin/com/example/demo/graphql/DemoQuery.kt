@@ -1,6 +1,6 @@
 package com.example.demo
 
-import com.expediagroup.graphql.server.operations.Query
+import com.expediagroup.graphql.spring.operations.Query
 import org.springframework.stereotype.Component
 
 @Component
